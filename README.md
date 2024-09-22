@@ -2,9 +2,9 @@
 
 ## Design Document
 ### Business Name
-- Puka Holdings
+Puka Holdings
 ### Business Services
-- Puka Holdings is a diversified global enterprise with a dynamic portfolio of 
+Puka Holdings is a diversified global enterprise with a dynamic portfolio of 
 brands. Our flagship businesses include Puka Creations, an established 
 import-export company in trending items and jewelry for over 30 years, and Puka
 Gida, a food conglomerate that spans a döner fast food chain, delicatessen 
