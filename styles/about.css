@@ -51,6 +51,7 @@
 
     .main-content h2 {
         font-size: var(--font-sizeMB-large);
+        padding-top: 300px;
     }
 
     .main-content p {
