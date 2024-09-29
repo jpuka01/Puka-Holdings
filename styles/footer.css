@@ -1,0 +1,10 @@
+footer {
+    position: relative;
+    background-color: var(--secondary-color);
+    color: var(--third-color);
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    left: 0;
+    z-index: 500;
+}

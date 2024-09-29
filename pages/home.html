@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home - Puka Holdings</title>
+        <link rel="icon" href="../assets/tulip.png" type="image/png">
+        <!-- Combine styles later -->
+        <link rel="stylesheet" href="../styles/root.css">
+        <link rel="stylesheet" href="../styles/header.css">
+        <link rel="stylesheet" href="../styles/home.css">
+        <link rel="stylesheet" href="../styles/footer.css">
+    </head>
+    <body class="content">
+        <!-- Navigation Header Content -->
+        <header class="header">
+            <div class="header-logo">
+                <a href="../pages/home.html">Puka Holdings</a>
+            </div>
+
+            <!-- Hidden Checkbox (Mobile) -->
+            <input type="checkbox" id="nav-toggle" class="nav-toggle">
+
+            <!-- Hamburger Label (Mobile) -->
+            <label for="nav-toggle" class="header-hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+
+            <!-- Navigation Links -->
+            <nav class="header-navigation">
+                <ul>
+                    <li class="header-dropdown">
+                        <a>Brands</a>
+                        <ul class="header-dropdown-menu">
+                            <li><a href="../pages/brands.html">Puka Creations</a></li>
+                            <li><a href="../pages/brands.html">Supasoft Apparel</a></li>
+                            <li><a href="../pages/brands.html">Puka Gida</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../pages/about.html">About</a></li>
+                    <li><a href="../pages/contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <!-- Hero Section -->
+        <div class="hero-image">
+            <img src="../assets/tulip1.png" alt="header-logo-img">
+            <h1 class="hero-hook">Welcome to Puka Holdings</h1>
+            <p class="hero-message">Your one-step solution for global brand innovation.</p>
+            <button class="hero-button">Explore Brands</button>
+        </div>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <h1 class="brands">Our Brands</h1>
+            <div class="carousel">
+                <div class="carousel-images">
+                    <div class="carousel-item">
+                        <img src="../assets/pukacreationslogo.jpg" alt="Puka-Creations">
+                        <div class="carousel-caption">Puka Creations</div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../assets/pukadonerlogo.png" alt="Puka-Gida">
+                        <div class="carousel-caption">Puka Gida</div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../assets/supasoftlogo.png" alt="Supasoft">
+                        <div class="carousel-caption">Supasoft Apparel</div>
+                    </div>
+                </div>              
+            </div>
+        </main>        
+
+        <!-- Footer Content -->
+        <footer>
+            <p>&copy; 2024 Puka Holdings. All Rights Reserved.</p>
+        </footer>        
+    </body>
+</html>
