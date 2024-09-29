@@ -48,6 +48,7 @@ Explore Brands + Brand Names
 ## Deliverables
 ### Site URL
 SiteGround: https://johnp392.sg-host.com/HW2/pages/home.html
+
 Also Available on GitHub: https://jpuka01.github.io/Puka-Holdings/pages/home.html
 
 ### Requirements Met
